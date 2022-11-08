@@ -1,0 +1,2 @@
+# contao_hojak_newsletter_extended
+Condao Extension
